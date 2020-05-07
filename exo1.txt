@@ -1,0 +1,13 @@
+Exo 1
+
+Dans la branche master:
+
+-créez un fichier nommé foo.py et ajoutezy n'importe quel contenu (il ne doit pas avoir une taille 0)
+-ajoutez, commitez et pusher sur github
+
+Depuis la branche master :
+
+-créez une nouvelle branche "doc"
+-allez dans la branche doc
+-créez une dossier nommé "doc" et ajoutez-y un fichier nommé install.ms avec n'importe quel contennu
+-ajoutez, commitez et pusher sur github
